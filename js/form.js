@@ -1,3 +1,3 @@
-function myFunction() {
+function submitForm() {
     document.getElementById("contact").submit();
   }
