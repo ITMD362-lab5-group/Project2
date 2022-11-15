@@ -7,3 +7,19 @@ html {
 h2 {
     font-size: 2.369rem;
 }
+
+.nav-list {
+    margin-left: 0;
+    padding-bottom: 0;
+}
+
+.nav-item {
+    float: left;
+    width: 25%;
+    list-style-type: none;
+    padding-bottom: 0;
+}
+
+.nav a {
+    display: block;
+}
