@@ -1,7 +1,7 @@
 html {
     font-size: 1em;
     line-height: 24px;
-    margin: 10%;
+    padding: 10%;
 }
 
 h2 {
@@ -20,8 +20,9 @@ h2 {
     padding-bottom: 0;
 }
 
-.nav a {
+.nav-item a {
     display: block;
     text-align: center;
     line-height: 1;
+    padding: 1em 1em;
 }
