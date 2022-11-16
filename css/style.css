@@ -19,15 +19,15 @@ h2 {
 
 nav {
     position: absolute;
+    width: 100%;
 }
 
 .nav-list {
-
 }
 
 .nav-list li {
     float: left;
-    width: auto;
+    width: 33.33%;
     list-style-type: none;
 }
 
