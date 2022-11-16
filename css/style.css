@@ -42,5 +42,7 @@ nav {
 }
 
 @media screen and (min-width: 650px){
-    
+    .nav-list {
+        float: right;
+    }
 }
