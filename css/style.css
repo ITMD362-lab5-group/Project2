@@ -5,6 +5,10 @@ html {
     padding-right: 10%;
 }
 
+header {
+    padding-bottom: 4em;
+}
+
 h2 {
     font-size: 2.369rem;
 }
@@ -12,7 +16,6 @@ h2 {
 
 nav {
     position: absolute;
-    width: 100%;
 }
 
 .nav-list {
@@ -20,8 +23,14 @@ nav {
 }
 
 .nav-list li {
-    
+    float: left;
+    width: auto;
+    list-style-type: none;
 }
 
 .nav-list a {
+    display: block;
+    text-align: center;
+    padding: 1em 1em;
+    background-color: lightgray;
 }
