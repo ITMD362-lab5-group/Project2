@@ -10,7 +10,13 @@ h2 {
 }
 
 
+nav {
+    position: absolute;
+    width: 100%;
+}
+
 .nav-list {
+
 }
 
 .nav-list li {
