@@ -1,4 +1,5 @@
 html {
+    
     font-size: 1em;
     line-height: 24px;
 }
@@ -43,6 +44,10 @@ nav {
 
 .nav-list a:hover {
     background-color: #a9a9a9;
+}
+
+img {
+    width: 70%;
 }
 
 @media screen and (min-width: 650px){
