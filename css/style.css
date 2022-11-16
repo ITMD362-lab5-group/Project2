@@ -7,10 +7,15 @@ header {
     padding-bottom: 4em;
 }
 
+main {
+    margin-left: 10%;
+    margin-right: 10%;
+}
 h2 {
     font-size: 2.369rem;
 }
 
+/*NAVIGATION*/
 
 nav {
     position: absolute;
