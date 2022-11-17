@@ -1,5 +1,4 @@
 html {
-    
     font-size: 1em;
     line-height: 24px;
 }
@@ -52,6 +51,7 @@ img {
 
 #logo {
     width: auto;
+    height: 192px;
 }
 
 @media screen and (min-width: 650px){
