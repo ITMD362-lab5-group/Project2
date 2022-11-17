@@ -12,7 +12,10 @@ main {
     margin-right: 10%;
 }
 h2 {
+    text-align: center;
     font-size: 2.369rem;
+    padding-top: 1em;
+    padding-bottom: 1em;
 }
 
 /*NAVIGATION*/
