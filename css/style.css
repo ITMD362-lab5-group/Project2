@@ -14,12 +14,13 @@ main {
 h2 {
     text-align: center;
     font-size: 2.369rem;
-    padding-top: 1em;
-    padding-bottom: 1em;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
 }
 
 p {
-    
+    padding-top: 4rem;
+    padding-bottom: 4rem;
 }
 
 /*NAVIGATION*/
